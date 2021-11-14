@@ -1,0 +1,1 @@
+.model 2N7000 VDMOS(Rg=3 Vto=3 Rd=0 Rs=.75 Rb=.14 Kp=.17 mtriode=1.25 Cgdmax=80p Cgdmin=12p Cgs=50p Cjo=50p Is=.04p mfg=Fairchild Vds=60 Ron=5 Qg=.223n)
